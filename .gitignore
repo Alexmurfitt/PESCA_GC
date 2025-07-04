@@ -16,3 +16,4 @@ __pycache__/
 *.ipynb~
 .env
 .env.*
+estructura_proyecto.md
